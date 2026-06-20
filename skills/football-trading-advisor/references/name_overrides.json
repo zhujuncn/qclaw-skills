@@ -1,0 +1,10 @@
+{
+  "_comment": "Advisor-specific overrides. Keys are external/CGMBet names; values are Betfair/Bet Angel canonical display names.",
+  "Akranes": "IA Akranes",
+  "Gardabaer": "Stjarnan",
+  "Tampereen": "Ilves",
+  "Turun Palloseura": "TPS",
+  "Kuopion Palloseura": "KuPS",
+  "Seinajoen": "SJK",
+  "Vaasa": "VPS"
+}

@@ -1,0 +1,50 @@
+{
+  "scan_time": "2026-04-20T21:15:18.653315",
+  "target_date": "2026-04-20",
+  "total_matches": 57,
+  "divergences_found": 17,
+  "tier_breakdown": {
+    "tier_1_strong": 10,
+    "tier_2_moderate": 2,
+    "tier_3_weak": 3
+  },
+  "divergences": [
+    {
+      "match_id": "20260420001",
+      "date": "2026-04-20",
+      "time": "0030",
+      "home": "Rosario Central",
+      "away": "Sarmiento",
+      "league": "Primera Division",
+      "country": "Argentina",
+      "elo_diff": 168,
+      "form_diff": -17,
+      "tier": 1,
+      "odds": {"1": 1.58, "X": 3.44, "2": 6.94},
+      "recommendation": {
+        "confidence": "HIGH",
+        "action": "BACK Sarmiento @ 6.94 or LAY Rosario Central @ 1.59",
+        "reason": "ELO overrates Rosario Central, Form favours Sarmiento"
+      }
+    },
+    {
+      "match_id": "20260420002",
+      "date": "2026-04-20",
+      "time": "1930",
+      "home": "La Coruna",
+      "away": "Mirandes",
+      "league": "Segunda Division",
+      "country": "Spain",
+      "elo_diff": 154,
+      "form_diff": -11,
+      "tier": 1,
+      "odds": {"1": 1.54, "X": 4.22, "2": 6.38},
+      "recommendation": {
+        "confidence": "HIGH",
+        "action": "LAY La Coruna @ 1.55 or BACK Mirandes @ 6.38",
+        "reason": "ELO overrates La Coruna, Form favours Mirandes",
+        "actual_result": "0-1 HT (Mirandes leading) - Form was correct!"
+      }
+    }
+  ]
+}

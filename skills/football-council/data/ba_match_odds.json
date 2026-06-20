@@ -1,0 +1,666 @@
+[
+  {
+    "home": "FC Imabari",
+    "away": "Nara Club"
+  },
+  {
+    "home": "Daegu FC",
+    "away": "Gyeongnam"
+  },
+  {
+    "home": "Albirex Niigata",
+    "away": "Kamatamare Sanuki"
+  },
+  {
+    "home": "Cerezo Osaka",
+    "away": "Fukuoka"
+  },
+  {
+    "home": "Brisbane Roar FC (W)",
+    "away": "Wellington Phoenix (W)"
+  },
+  {
+    "home": "Citizen AA",
+    "away": "Shatin SA"
+  },
+  {
+    "home": "Cheonan City",
+    "away": "Chungnam Asan"
+  },
+  {
+    "home": "FC Zbrojovka Brno B",
+    "away": "Slovacko B"
+  },
+  {
+    "home": "FC Petrzalka",
+    "away": "DUKLA BANSKA BYSTRICA"
+  },
+  {
+    "home": "Austria Klagenfurt",
+    "away": "Rapid Vienna (Am)"
+  },
+  {
+    "home": "Dong Thap",
+    "away": "PVF CAND II"
+  },
+  {
+    "home": "FC Ryukyu",
+    "away": "Kagoshima Utd"
+  },
+  {
+    "home": "FC Volendam",
+    "away": "Heerenveen"
+  },
+  {
+    "home": "Bologna",
+    "away": "Cagliari"
+  },
+  {
+    "home": "Arda",
+    "away": "Cherno More"
+  },
+  {
+    "home": "Bidco United",
+    "away": "FC Kariobangi Sharks"
+  },
+  {
+    "home": "BK Astrio",
+    "away": "Qviding FIF"
+  },
+  {
+    "home": "Duisburg",
+    "away": "Cottbus"
+  },
+  {
+    "home": "Carlisle",
+    "away": "Boreham Wood"
+  },
+  {
+    "home": "FC Magdeburg",
+    "away": "Hertha Berlin"
+  },
+  {
+    "home": "Elversberg",
+    "away": "Paderborn"
+  },
+  {
+    "home": "FC Stockholm Internazionale",
+    "away": "Sollentuna FF"
+  },
+  {
+    "home": "Dewa United FC",
+    "away": "Semen Padang"
+  },
+  {
+    "home": "Bellinzona",
+    "away": "Rapperswil-Jona"
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Elche"
+  },
+  {
+    "home": "Austria Wien",
+    "away": "Hartberg"
+  },
+  {
+    "home": "Deportivo Recoleta",
+    "away": "Cerro Porteno"
+  },
+  {
+    "home": "EIF",
+    "away": "KTP"
+  },
+  {
+    "home": "Bournemouth",
+    "away": "Crystal Palace"
+  },
+  {
+    "home": "Arendal",
+    "away": "IL Sandviken Bergen"
+  },
+  {
+    "home": "Botev Plovdiv",
+    "away": "Lokomotiv Plovdiv"
+  },
+  {
+    "home": "APOEL",
+    "away": "AEK Larnaca"
+  },
+  {
+    "home": "Antwerp",
+    "away": "Standard"
+  },
+  {
+    "home": "Casa Pia",
+    "away": "Tondela"
+  },
+  {
+    "home": "Barcelona (W)",
+    "away": "Bayern Munich (W)"
+  },
+  {
+    "home": "Elfsborg",
+    "away": "AIK"
+  },
+  {
+    "home": "Az Alkmaar",
+    "away": "FC Twente"
+  },
+  {
+    "home": "Dynamo Kiev",
+    "away": "Shakhtar"
+  },
+  {
+    "home": "Club Sportif Sfaxien",
+    "away": "Olympique De Beja"
+  },
+  {
+    "home": "Ben Guerdane",
+    "away": "AS Solimane"
+  },
+  {
+    "home": "FC Urartu",
+    "away": "Ararat Armenia"
+  },
+  {
+    "home": "FC Ordabasy",
+    "away": "FK Aktobe"
+  },
+  {
+    "home": "AS Gabes",
+    "away": "Kairouan"
+  },
+  {
+    "home": "FC Noah",
+    "away": "FC Pyunik"
+  },
+  {
+    "home": "Boston River",
+    "away": "Central Espanol"
+  },
+  {
+    "home": "Chrobry Glogow",
+    "away": "GKS Tychy"
+  },
+  {
+    "home": "Club Africain",
+    "away": "Stade Tunisien"
+  },
+  {
+    "home": "ACS Petrolul 52",
+    "away": "UTA Arad"
+  },
+  {
+    "home": "Auxerre",
+    "away": "Angers"
+  },
+  {
+    "home": "Cittadella",
+    "away": "Arzignanochiampo"
+  },
+  {
+    "home": "CSKA Sofia",
+    "away": "Ludogorets"
+  },
+  {
+    "home": "Al Budaiya",
+    "away": "Al Khalidiyah"
+  },
+  {
+    "home": "Club R Zemamra",
+    "away": "Wydad Casablanca"
+  },
+  {
+    "home": "Apollon Limassol",
+    "away": "Pafos FC"
+  },
+  {
+    "home": "Al-Shabab (KSA)",
+    "away": "Al-Taawoun Buraidah"
+  },
+  {
+    "home": "Bahrain SC",
+    "away": "Malkiya"
+  },
+  {
+    "home": "Al Sarhan",
+    "away": "Al Hussein"
+  },
+  {
+    "home": "Al Faisaly SC",
+    "away": "Al Ramtha"
+  },
+  {
+    "home": "CA Atlanta",
+    "away": "Tristan Suarez"
+  },
+  {
+    "home": "AGF",
+    "away": "SonderjyskE"
+  },
+  {
+    "home": "Al Batin",
+    "away": "Al Bukayriyah"
+  },
+  {
+    "home": "B68 Toftir",
+    "away": "EB/Streymur"
+  },
+  {
+    "home": "Al Taee",
+    "away": "Al-Jndal"
+  },
+  {
+    "home": "Aldosivi",
+    "away": "Independiente Rivadavia"
+  },
+  {
+    "home": "Betis",
+    "away": "Oviedo"
+  },
+  {
+    "home": "Anderlecht",
+    "away": "Club Brugge"
+  },
+  {
+    "home": "FC Ashdod",
+    "away": "Ironi Tiberias"
+  },
+  {
+    "home": "Braga",
+    "away": "Estoril Praia"
+  },
+  {
+    "home": "Antalyaspor",
+    "away": "Alanyaspor"
+  },
+  {
+    "home": "Fatih Karagumruk Istanbul",
+    "away": "Genclerbirligi"
+  },
+  {
+    "home": "FCV Dender",
+    "away": "RAAL La Louviere"
+  },
+  {
+    "home": "Club Atletico Mitre",
+    "away": "Acassuso"
+  },
+  {
+    "home": "Aston Villa",
+    "away": "Tottenham"
+  },
+  {
+    "home": "Al-Quadisiya (KSA)",
+    "away": "Al Nassr"
+  },
+  {
+    "home": "CA Colegiales",
+    "away": "San Martin de San Juan"
+  },
+  {
+    "home": "ASD Pineto Calcio",
+    "away": "Gubbio"
+  },
+  {
+    "home": "Almagro BA",
+    "away": "CA Temperley"
+  },
+  {
+    "home": "Crotone",
+    "away": "Audace Cerignola"
+  },
+  {
+    "home": "Almirante Brown",
+    "away": "Chaco For Ever"
+  },
+  {
+    "home": "FC Supra du Quebec",
+    "away": "Cavalry"
+  },
+  {
+    "home": "Ciudad de Bolivar",
+    "away": "Ferro Carril Oeste"
+  },
+  {
+    "home": "Espanyol",
+    "away": "Real Madrid"
+  },
+  {
+    "home": "Belgrano",
+    "away": "Sarmiento de Junin"
+  },
+  {
+    "home": "CD Gualberto Villarroel",
+    "away": "Bolivar"
+  },
+  {
+    "home": "FC Midland",
+    "away": "CA Guemes"
+  },
+  {
+    "home": "Amazonas FC",
+    "away": "SER Caxias do Sul"
+  },
+  {
+    "home": "Alianza FC Valledupar",
+    "away": "Millonarios"
+  },
+  {
+    "home": "Alianza Atletico",
+    "away": "Sport Huancayo"
+  },
+  {
+    "home": "Delfin",
+    "away": "Mushuc Runa"
+  },
+  {
+    "home": "Atletico Go",
+    "away": "Juventude"
+  },
+  {
+    "home": "Chapecoense",
+    "away": "Red Bull Bragantino"
+  },
+  {
+    "home": "Cobreloa Calama",
+    "away": "Antofagasta"
+  },
+  {
+    "home": "Austin FC",
+    "away": "St Louis City SC"
+  },
+  {
+    "home": "Colo Colo",
+    "away": "Coquimbo Unido"
+  },
+  {
+    "home": "CD Leones del Norte",
+    "away": "Emelec"
+  },
+  {
+    "home": "Carabobo FC",
+    "away": "Metropolitanos"
+  },
+  {
+    "home": "AD Municipal Liberia",
+    "away": "Deportivo Saprissa"
+  },
+  {
+    "home": "CSD Municipal",
+    "away": "Guastatoya"
+  },
+  {
+    "home": "America de Cali S.A",
+    "away": "Deportivo Pereira"
+  },
+  {
+    "home": "Cancun FC",
+    "away": "Club Jaiba Brava"
+  },
+  {
+    "home": "CF America",
+    "away": "Pumas UNAM"
+  },
+  {
+    "home": "Albion FC",
+    "away": "Nacional (Uru)"
+  },
+  {
+    "home": "Avai",
+    "away": "Novorizontino"
+  },
+  {
+    "home": "America MG",
+    "away": "CRB"
+  },
+  {
+    "home": "Deportes Limache",
+    "away": "OHiggins"
+  },
+  {
+    "home": "CD Tepatitlan de Morelos",
+    "away": "Mineros de Zacatecas"
+  },
+  {
+    "home": "Beijing Tech FC",
+    "away": "Qingdao Red Lions"
+  },
+  {
+    "home": "Chengdu Rongcheng II",
+    "away": "Guangdong Mingtu"
+  },
+  {
+    "home": "Aston Villa (W)",
+    "away": "West Ham United (W)"
+  },
+  {
+    "home": "Chelsea",
+    "away": "Nottm Forest"
+  },
+  {
+    "home": "Derry City",
+    "away": "Galway Utd"
+  },
+  {
+    "home": "Al Ahli Amman",
+    "away": "Al Buqaa"
+  },
+  {
+    "home": "Al-Jazeera",
+    "away": "Shabab Al Ordon"
+  },
+  {
+    "home": "Cobh Ramblers",
+    "away": "UCD"
+  },
+  {
+    "home": "Bohemians",
+    "away": "Shelbourne"
+  },
+  {
+    "home": "Al-Feiha",
+    "away": "Al Riyadh SC"
+  },
+  {
+    "home": "Belouizdad",
+    "away": "USM Khenchela"
+  },
+  {
+    "home": "Djurgardens",
+    "away": "IFK Goteborg"
+  },
+  {
+    "home": "Bodo Glimt",
+    "away": "Molde"
+  },
+  {
+    "home": "Al Ittihad (EGY)",
+    "away": "Petrojet"
+  },
+  {
+    "home": "Bnei Sakhnin",
+    "away": "Maccabi Bnei Raina"
+  },
+  {
+    "home": "Al-Ettifaq",
+    "away": "Al Najma Club"
+  },
+  {
+    "home": "Al-Ittihad",
+    "away": "Al-Kholood Club"
+  },
+  {
+    "home": "CD Los Chankas",
+    "away": "Deportivo Garcilaso"
+  },
+  {
+    "home": "Almeria",
+    "away": "Mirandes"
+  },
+  {
+    "home": "Everton",
+    "away": "Man City"
+  },
+  {
+    "home": "Deportes Concepcion",
+    "away": "Huachipato"
+  },
+  {
+    "home": "Estudiantes Rio Cuarto",
+    "away": "Instituto"
+  },
+  {
+    "home": "Club Gimnasia y Tiro",
+    "away": "Agropecuario"
+  },
+  {
+    "home": "Bucheon FC 1995",
+    "away": "Jeju Utd"
+  },
+  {
+    "home": "Bihor Oradea",
+    "away": "Chindia Targoviste"
+  },
+  {
+    "home": "Beroe Stara Za",
+    "away": "Montana"
+  },
+  {
+    "home": "Ceramica Cleopatra",
+    "away": "Pyramids"
+  },
+  {
+    "home": "Falkenbergs",
+    "away": "Norrkoping"
+  },
+  {
+    "home": "Al Ahly Cairo",
+    "away": "ENPPI"
+  },
+  {
+    "home": "Chippa Utd",
+    "away": "Sekhukhune United"
+  },
+  {
+    "home": "Besiktas",
+    "away": "Konyaspor"
+  },
+  {
+    "home": "Dunfermline",
+    "away": "Arbroath"
+  },
+  {
+    "home": "Alloa",
+    "away": "Airdrieonians"
+  },
+  {
+    "home": "Arsenal",
+    "away": "Atletico Madrid"
+  },
+  {
+    "home": "Barcelona (Ecu)",
+    "away": "Boca Juniors"
+  },
+  {
+    "home": "Always Ready",
+    "away": "Lanus"
+  },
+  {
+    "home": "Bayern Munich",
+    "away": "Paris St-G"
+  },
+  {
+    "home": "Crystal Palace",
+    "away": "Shakhtar"
+  },
+  {
+    "home": "Aston Villa",
+    "away": "Nottm Forest"
+  },
+  {
+    "home": "AaB",
+    "away": "Middelfart"
+  },
+  {
+    "home": "CFR Cluj",
+    "away": "Universitatea Craiova"
+  },
+  {
+    "home": "Cesena",
+    "away": "Padova"
+  },
+  {
+    "home": "Catanzaro",
+    "away": "SSD Bari"
+  },
+  {
+    "home": "Entella",
+    "away": "Carrarese"
+  },
+  {
+    "home": "AC Monza",
+    "away": "Empoli"
+  },
+  {
+    "home": "Dortmund",
+    "away": "Eintracht Frankfurt"
+  },
+  {
+    "home": "Cadiz",
+    "away": "Deportivo"
+  },
+  {
+    "home": "Avellino",
+    "away": "Modena"
+  },
+  {
+    "home": "Braunschweig",
+    "away": "Dynamo Dresden"
+  },
+  {
+    "home": "Elche",
+    "away": "Alaves"
+  },
+  {
+    "home": "Cagliari",
+    "away": "Udinese"
+  },
+  {
+    "home": "Augsburg",
+    "away": "Mgladbach"
+  },
+  {
+    "home": "Brighton",
+    "away": "Wolves"
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Celta Vigo"
+  },
+  {
+    "home": "Cesar Vallejo Moquegua",
+    "away": "Asociacion Deportiva Tar"
+  },
+  {
+    "home": "Chicago Fire",
+    "away": "New York Red Bulls"
+  },
+  {
+    "home": "Coritiba",
+    "away": "Internacional"
+  },
+  {
+    "home": "Bolton",
+    "away": "Bradford"
+  },
+  {
+    "home": "Atletico Grau",
+    "away": "Cienciano"
+  },
+  {
+    "home": "CF Montreal",
+    "away": "Orlando City"
+  }
+]

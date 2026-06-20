@@ -1,25 +1,38 @@
 # QClaw Skills Package
 
-Bet Angel X2 automated trading system — Skills for football betting research and execution.
+Local Codex skills for football research, Bet Angel execution, Betfair exchange workflows, and qclaw trading operations.
 
-**Updated 2026-05-02**: Probability calibration fix — global Draw rate corrected from 31.85% (circular reasoning) to **26.2%** (CGMBet26, n=217,585).
+Updated 2026-06-20 from `C:\Users\zhuju\.codex\skills`.
 
 ## Skills
 
-| Skill | Version | Description |
-|-------|---------|-------------|
-| etangel-x2 | v7.0.0 | Bet Angel API wrapper + X2 LAY strategy |
-| ootball-council | v1.8 | Multi-agent analysis (CGMBet26 + Poisson + Kelly) |
-| cgmbet26 | v1.1.0 | CGMBet26 database access |
-| cgmbet26-strategies | v1.4.0 | Direct betting signal library |
-| evolver | v1.1.0 | Self-improving decision system |
-| guardian-automation | v1.1.0 | Guardian signal detection |
-| match-analyzer | v1.3.0 | Match analysis workflow |
-| openligadb | — | German football data API |
+| Skill | Purpose |
+| --- | --- |
+| betangel-api | Bet Angel local API reference and safe control guidance |
+| betangel-apply-rules | Guardian automation rule mounting workflow |
+| betangel-live-order-engine | Live order and position management engine |
+| betangel-x2 | Bet Angel X2 trading workflow |
+| betfair-pipeline | DJYY ExchangeBets daily pipeline |
+| cash-out-guard | Betfair cash-out and greening guard workflow |
+| cgmbet26 | CGMBet26 football data analysis knowledge base |
+| cgmbet26-strategies | CGMBet26 direct betting strategy library |
+| djyy-extract | DJYY strategy pick extraction |
+| evolver | Agent skill evolution and runtime analysis engine |
+| flashscore | FlashScore football data extraction |
+| flashscore-skill | FlashScore football data extraction variant |
+| football-council | Multi-agent football betting decision workflow |
+| football-match-monitor | Football match monitoring helper |
+| football-trading-advisor | Unified football trading advice workflow |
+| form-elo-divergence | Form and ELO divergence analysis |
+| guardian-automation | Bet Angel Guardian automation guidance |
+| match-analyzer | Football match analysis workflow |
+| match-fetch | Football match data retrieval |
+| openligadb | OpenLigaDB football API integration |
+| sofascore | Sofascore football data API integration |
+| superbet | Superbet.ro browser automation guidance |
 
-## Key Fix (2026-05-02)
+## Notes
 
-**Circular reasoning removed**: 87 BACK Draw bets failed because market-implied probability was used as independent estimate. 
-Correct approach: CGMBet26 historical data → true probability → compare vs Betfair market.
-
-See [calibration data](https://github.com/zhujuncn/qclaw-skills) for league-specific rates.
+- Generated Python cache files are excluded.
+- The repository mirrors reusable local skill code and documentation only.
+- Money-moving workflows still require explicit user authorization at runtime.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Football Trading Advisor"
+  short_description: "CGMBet26 and Bet Angel betting-advice workflow."
+  default_prompt: "Use football-trading-advisor to scan football matches, compute value, apply risk rules, and provide Bet Angel-ready betting recommendations without placing bets unless explicitly approved."

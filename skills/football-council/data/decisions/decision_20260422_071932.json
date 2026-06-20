@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-22T07:19:32.354243",
+  "votes": [
+    {
+      "agent": "SOFASCORE",
+      "signal": "BET",
+      "confidence": 4,
+      "reason": "Strong xG advantage for home team, recent form W-W-W"
+    },
+    {
+      "agent": "CGMBET",
+      "signal": "BET",
+      "confidence": 5,
+      "reason": "Tier 1 signal, Value% = 18%, P-value < 5%"
+    },
+    {
+      "agent": "ANALYZER",
+      "signal": "BET",
+      "confidence": 4,
+      "reason": "All signals align, high confidence"
+    }
+  ],
+  "bet_count": 3,
+  "total_agents": 3,
+  "decision": "STRONG",
+  "action": "Bet immediately",
+  "kelly_fraction": 0.5,
+  "weighted_confidence": 4.38,
+  "signals": {
+    "sofascore": "BET",
+    "cgmbet": "BET",
+    "analyzer": "BET"
+  },
+  "match_name": "Team A vs Team B",
+  "market_id": "1.234567"
+}

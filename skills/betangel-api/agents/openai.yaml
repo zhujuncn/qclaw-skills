@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bet Angel API"
+  short_description: "Build and troubleshoot Bet Angel API calls"
+  default_prompt: "Use $betangel-api to create a Bet Angel API request for Guardian, Automation, Markets, or Betting."

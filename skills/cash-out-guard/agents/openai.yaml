@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cash Out Guard"
+  short_description: "Bet Angel cash-out and greening guardrails"
+  default_prompt: "Use $cash-out-guard to inspect Bet Angel positions and recommend safe cash-out or greening actions."
